@@ -35,7 +35,7 @@ set nocompatible
         " A tree explorer plugin
         Bundle 'git://github.com/scrooloose/nerdtree.git'
         " Perform all your vim insert mode completions with Tab
-        Bundle 'git://github.com/ervandew/supertab.git'
+        " Bundle 'git://github.com/ervandew/supertab.git'
         " Command-T
         " Bundle 'git://github.com/wincent/Command-T.git'
         " Bundle 'git://github.com/vim-scripts/taglist.vim.git'
@@ -69,7 +69,7 @@ set nocompatible
         " Bundle 'git://github.com/chrismetcalf/vim-yankring.git'
         " Bundle 'git://github.com/slack/vim-fuzzyfinder.git'
         Bundle 'git://github.com/vim-scripts/vimwiki.git'
-        Bundle 'git://github.com/scrooloose/syntastic.git'
+        " Bundle 'git://github.com/scrooloose/syntastic.git'
         Bundle 'git://github.com/vim-scripts/TaskList.vim.git'
     " Lua
         " Bundle 'git://github.com/vim-scripts/lua.vim.git'
@@ -88,7 +88,7 @@ set nocompatible
         " CSS3 syntax support
         Bundle 'git://github.com/hail2u/vim-css3-syntax.git'
         " Highlight colors in css files
-        Bundle 'git://github.com/ap/vim-css-color.git'
+        " Bundle 'git://github.com/ap/vim-css-color.git'
         Bundle 'git://github.com/groenewege/vim-less.git'
         Bundle 'git://github.com/miripiruni/vim-better-css-indent.git'
         Bundle 'git://github.com/miripiruni/CSScomb-for-Vim.git'
@@ -545,7 +545,7 @@ set nocompatible
 
     " <Space><Space>
         " Double space to ". "
-        imap <Space><Space> . 
+        " imap <Space><Space> . 
 
     " ,ts
         " Fix trailing white space
