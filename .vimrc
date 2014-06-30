@@ -181,11 +181,11 @@ set nocompatible
     " Number of column to be highlighted
     " Only available when compiled with the +syntax feature
     if version >= 703
-        set colorcolumn=80
+        set colorcolumn=120
     end
     " Maximum width of text that is being inserted
     " Longer lines will be broken after white space to get this width
-    set textwidth=80
+    set textwidth=0
     " Copy indent from current line when starting a new line
     set autoindent
     " Do smart indenting when starting a new line
